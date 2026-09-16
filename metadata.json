@@ -1,0 +1,6 @@
+{
+  "name": "WasteGuard AI",
+  "description": "Citizen-powered predictive waste intelligence application for Tamil Nadu municipalities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
